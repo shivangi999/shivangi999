@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Shivangi Rawat
+- 👀 I’m interested in coing, coding and coding....
+- 🌱 I’m currently learning MERN full stack development
+- 💞️ I’m looking to collaborate on new projects...
+- 📫 How to reach me -> do mail me on shivangirawattt@gmail.com
+
